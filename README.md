@@ -1,4 +1,4 @@
-Overview:
+# Overview:
 
 This project involves building a simple robot with an Arduino board that can follow black lines using infrared sensors to stay on track. We've also added a feature: an ultrasonic sensor and gripper mechanism, so the robot can pick up objects as it moves along.
 
