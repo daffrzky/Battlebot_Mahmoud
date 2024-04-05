@@ -1,8 +1,8 @@
-# Overview:
+# Overview
 
 This project involves building a simple robot with an Arduino board that can follow black lines using infrared sensors to stay on track. We've also added a feature: an ultrasonic sensor and gripper mechanism, so the robot can pick up objects as it moves along.
 
-# Components:
+# Components
  - Clipper
  - Arduino board (Arduino Nano
  - Clipper
@@ -17,7 +17,7 @@ This project involves building a simple robot with an Arduino board that can fol
  - Ultrasonic sensor
 
 
-# Setup and Installation:
+# Setup and Installation
 
 1) Establish the connection between the motor driver module and the Arduino board.
 2) Link the motors to the designated outputs of the motor driver.
@@ -26,19 +26,19 @@ This project involves building a simple robot with an Arduino board that can fol
 5) Wire the LED lights to the analog pins for control.
 6) Connect the gripper mechanism to the allocated pin on the Arduino board.
 
-# Running the code:
+# Running the code
 
 1. Install Arduino IDE
 2. Upload the code
 3. Select proper COM port
 
-# Assembly:
+# Assembly
 
 1) Put the motors and wheels on the chassis.
 2) Fix the infrared sensors to the front of the robot, pointing down to see lines on the ground.
 3) Install the ultrasonic sensor and gripper mechanism following their instructions.
 
-# How to use:
+# How to use
 
 1) Turn on the robot.
 2) Put it on a surface with a black line.
